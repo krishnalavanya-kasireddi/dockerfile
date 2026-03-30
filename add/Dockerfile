@@ -1,2 +1,2 @@
-FROM almalinux:09
+FROM almalinux:9
 ADD https://github.com/daws-88s/notes/blob/main/session-51.txt /tmp/
